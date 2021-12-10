@@ -1,1 +1,1 @@
-# AdvancedMachineLearningProjecct
+# AdvancedMachineLearningProject
