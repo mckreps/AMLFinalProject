@@ -4,4 +4,4 @@ With billions of images posted every day in various social media platforms, ther
 We would illustrate how gender and age can be approximately predicted from facial features using python and deep learning techniques such as CNN, and existing pre-trained deep neural network architectures (VGG, AlexNet). 
 Keywords—Age estimation, Age prediction, Age detection, Gender classification, Gender detection, Transfer Learning, deep learning, Convolutional Neural Networks, CNN 
 ![image](https://user-images.githubusercontent.com/76460028/145622988-b74f42d6-4ff2-473c-b21e-d24b63780659.png)
-<center>![utk_dataset](https://user-images.githubusercontent.com/76460028/145626644-15c022de-f87a-465a-83a4-a6b3ec9911e3.jpg) </center>
+                       ![utk_dataset](https://user-images.githubusercontent.com/76460028/145626644-15c022de-f87a-465a-83a4-a6b3ec9911e3.jpg) 
